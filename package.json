@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "html-react-parser": "^3.0.12",
+    "quill-image-uploader": "^1.2.4",
+    "react-quill": "^2.0.0",
+    "slugify": "^1.6.5",
+    "sweetalert2": "^11.7.3"
+  }
+}
